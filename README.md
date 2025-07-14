@@ -1,2 +1,5 @@
-# Energy4All-quiz-
-The Energy4All project aims to educate users on energy-saving habits through an interactive quiz-based application. To enhance engagement and learning, the app integrates visual and audio feedback , making it more immersive and emotionally motivating. This aligns with our mission of transforming energy literacy into a fun and rewarding experience.
+# The python file is the main backbone of this program that includes all the logic.
+
+# The assets folder contains all the images and audio used in the program.
+
+# The CSV file contains all questions, options, answers, tips that are loaded into the python file. It is there to seperate the data from the program, making it easier to update any cell or add new rows.
